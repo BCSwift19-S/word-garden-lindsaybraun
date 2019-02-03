@@ -90,7 +90,7 @@
                     <connections>
                         <outlet property="flowerImageView" destination="qjq-L2-K5n" id="fDf-Jb-43X"/>
                         <outlet property="guessCountLabel" destination="Ytt-g6-H5C" id="zlB-K5-PPX"/>
-                        <outlet property="guessedLettedButton" destination="cln-6n-PU4" id="N8Y-kZ-u3L"/>
+                        <outlet property="guessedLetterButton" destination="cln-6n-PU4" id="N8Y-kZ-u3L"/>
                         <outlet property="guessedLetterField" destination="tc1-Hn-26S" id="4hm-MI-Wvu"/>
                         <outlet property="playAgainButton" destination="1qh-G9-dHI" id="HNQ-DZ-GxQ"/>
                         <outlet property="userGuessLabel" destination="b9S-FH-djF" id="AA7-YH-yNA"/>
